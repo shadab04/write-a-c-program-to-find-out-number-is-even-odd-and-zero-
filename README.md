@@ -1,0 +1,1 @@
+# write-a-c-program-to-find-out-number-is-even-odd-and-zero-
